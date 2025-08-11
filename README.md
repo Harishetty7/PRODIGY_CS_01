@@ -1,18 +1,29 @@
---Task 1
-<b>Caesar Cipher Program</b>--
+<b>🗝 Caesar Cipher Program<b>
+This Python script brings the classic Caesar Cipher to life — an ancient encryption method once used by Julius Caesar himself. With just a shift of letters, your plain message transforms into a secret code, or vice versa.
 
-This Python program implements the Caesar Cipher algorithm, allowing users to encrypt and decrypt text by shifting the characters in the message. The program is designed to be user-friendly, with prompts guiding the user through the encryption and decryption process.
+<b>✨ Features<b>
+<b>🔐 Dual Mode<b> – Effortlessly encrypt or decrypt text with a single program.
 
-**<b>Features</b>
+<b>🎯 Custom Shift<b> – Choose any shift value to make your cipher unique.
 
-- <b>Encryption and Decryption:</b> The program can both encrypt and decrypt messages using a specified shift value.
-- <b>User Input:</b> Users can enter their own message and choose the shift value for the cipher.
+<b>🖊 User-Friendly Prompts<b> – No guesswork; the program guides you step-by-step.
 
-**<b>Usage</b>
+<b>📜 How It Works<b>
+<b>Run the Program<b> – Launch the script to begin.
 
-1. <b>Run the Program:</b> Execute the script to start the Caesar Cipher program.
-2. <b>Select Action:</b> Choose 'e' for encryption or 'd' for decryption.
-3. <b>Enter Message:</b> Input the message you wish to process.
-4. <b>Specify Shift:</b> Enter the shift value for the Caesar Cipher.
-5. <b>View Result:</b> The program displays the encrypted or decrypted message.
+<b>Choose Your Action<b> – Type 'e' for encryption or 'd' for decryption.
 
+<b>Enter Your Message<b> – Add the text you want to protect or reveal.
+
+<b>Set Your Shift<b> – Pick a number that determines how letters are moved.
+
+<b>See the Magic<b> – Instantly view your encrypted or decrypted result.
+
+<b>💡 Example Run<b>
+<b>Encryption<b>
+
+<img width="932" height="221" alt="image" src="https://github.com/user-attachments/assets/e2f3ba50-3b18-4f15-8682-e6be7e021573" />
+
+<b>Decryption<b>
+
+<img width="890" height="197" alt="image" src="https://github.com/user-attachments/assets/5b7a0fb2-ece6-436c-9a07-20456c53eca4" />
