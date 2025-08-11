@@ -1,29 +1,38 @@
-<b>🗝 Caesar Cipher Program<b>
-This Python script brings the classic Caesar Cipher to life — an ancient encryption method once used by Julius Caesar himself. With just a shift of letters, your plain message transforms into a secret code, or vice versa.
+--Task 1
+<b>🗝 Caesar Cipher Program</b>
 
-<b>✨ Features<b>
-<b>🔐 Dual Mode<b> – Effortlessly encrypt or decrypt text with a single program.
+This Python script revives the legendary Caesar Cipher — a secret code technique once used by Julius Caesar himself.
+By shifting each letter in your message, you can turn ordinary text into mysterious encrypted code… and just as easily bring it back.
+Perfect for beginners who want to explore the magic of cryptography while keeping things simple and fun.
 
-<b>🎯 Custom Shift<b> – Choose any shift value to make your cipher unique.
+<b>✨ Features</b>
 
-<b>🖊 User-Friendly Prompts<b> – No guesswork; the program guides you step-by-step.
+<b>🔐 Dual Action:</b> Instantly encrypt or decrypt messages with your chosen shift value.
 
-<b>📜 How It Works<b>
-<b>Run the Program<b> – Launch the script to begin.
+<b>🎯 Fully Customizable:</b> Pick your own message and shift amount for a unique cipher every time.
 
-<b>Choose Your Action<b> – Type 'e' for encryption or 'd' for decryption.
+<b>🖊 Guided Interaction:</b> Clear prompts walk you through each step — no guesswork.
 
-<b>Enter Your Message<b> – Add the text you want to protect or reveal.
+<b>📜 Usage</b>
 
-<b>Set Your Shift<b> – Pick a number that determines how letters are moved.
+<b>Run the Program:</b> Launch the Python script to begin your cipher journey.
 
-<b>See the Magic<b> – Instantly view your encrypted or decrypted result.
+<b>Select Mode:</b> Type 'e' for encryption or 'd' for decryption.
 
-<b>💡 Example Run<b>
-<b>Encryption<b>
+<b>Enter Your Message:</b> Provide the text you wish to encode or decode.
 
-<img width="932" height="221" alt="image" src="https://github.com/user-attachments/assets/e2f3ba50-3b18-4f15-8682-e6be7e021573" />
+<b>Set the Shift:</b> Choose how many letters to move in the alphabet.
 
-<b>Decryption<b>
+<b>See the Magic:</b> The program reveals your encrypted or decrypted message instantly.
 
-<img width="890" height="197" alt="image" src="https://github.com/user-attachments/assets/5b7a0fb2-ece6-436c-9a07-20456c53eca4" />
+<b>💡 Example in VS Code</b>
+
+Encryption
+
+<img width="1235" height="211" alt="image" src="https://github.com/user-attachments/assets/641c1592-a9bd-4908-838e-cb0ba5f457cc" />
+
+Decryption
+
+<img width="1163" height="183" alt="image" src="https://github.com/user-attachments/assets/b752e235-ee9a-4cd8-9d07-7d3fe607cbf1" />
+
+
