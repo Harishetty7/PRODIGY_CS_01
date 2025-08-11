@@ -33,6 +33,7 @@ Encryption
 
 Decryption
 
-<img width="1163" height="183" alt="image" src="https://github.com/user-attachments/assets/b752e235-ee9a-4cd8-9d07-7d3fe607cbf1" />
+<img width="1177" height="210" alt="image" src="https://github.com/user-attachments/assets/fbf59b86-ea15-4ad2-a754-cd27368510d6" />
+
 
 
