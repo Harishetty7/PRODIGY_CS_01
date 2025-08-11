@@ -1,29 +1,18 @@
-# Caesar Cipher
+*Task 1
+<b>Caesar Cipher Program</b>
 
-This is a simple GUI application built using Python and Tkinter to demonstrate the Caesar cipher encryption and decryption algorithm.This Python program implements the Caesar Cipher algorithm, allowing users to encrypt and decrypt text by shifting the characters in the message. The program is designed to be user-friendly, with prompts guiding the user through the encryption and decryption process.
+This Python program implements the Caesar Cipher algorithm, allowing users to encrypt and decrypt text by shifting the characters in the message. The program is designed to be user-friendly, with prompts guiding the user through the encryption and decryption process.
 
-## Features
+<b>Features</b>
 
-- Encrypt text with a specified shift amount.
-- Decrypt text with the same shift amount.
-- Clear input and output fields.
+- <b>Encryption and Decryption:</b> The program can both encrypt and decrypt messages using a specified shift value.
+- <b>User Input:</b> Users can enter their own message and choose the shift value for the cipher.
 
-## Usage
+<b>Usage</b>
 
-1. Enter the text to be encrypted or decrypted in the "Text" field.
-2. Specify the shift amount in the "Shift amount" field.
-3. Select the mode (Encrypt or Decrypt) using the radio buttons.
-4. Click the "Process" button to perform the encryption or decryption.
-5. Click the "Clear" button to reset the input and output fields.
+1. <b>Run the Program:</b> Execute the script to start the Caesar Cipher program.
+2. <b>Select Action:</b> Choose 'e' for encryption or 'd' for decryption.
+3. <b>Enter Message:</b> Input the message you wish to process.
+4. <b>Specify Shift:</b> Enter the shift value for the Caesar Cipher.
+5. <b>View Result:</b> The program displays the encrypted or decrypted message.
 
-## How to Run
-
-1. Clone this repository to your local machine.
-2. Install Python if you haven't already.
-3. Install the required dependencies using the following command:
-   ```sh
-   pip install tk 
-4. Navigate to the project directory in your terminal.
-5. Run the script using the following command:
-   ```sh
-   python caesar_cipher.py
